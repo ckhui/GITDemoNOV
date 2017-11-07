@@ -13,6 +13,7 @@
 		5F0D68FB1FB15BB800463712 /* NOV_OVEN.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5F0D68F91FB15BB800463712 /* NOV_OVEN.xcdatamodeld */; };
 		5F0D68FD1FB15BB800463712 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F0D68FC1FB15BB800463712 /* Assets.xcassets */; };
 		5F0D69001FB15BB800463712 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F0D68FE1FB15BB800463712 /* LaunchScreen.storyboard */; };
+		5F0D69081FB1611400463712 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0D69071FB1611400463712 /* NewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5F0D68FC1FB15BB800463712 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F0D68FF1FB15BB800463712 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5F0D69011FB15BB800463712 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5F0D69071FB1611400463712 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				5F0D68F21FB15BB800463712 /* AppDelegate.swift */,
 				5F0D68F41FB15BB800463712 /* ViewController.swift */,
+				5F0D69071FB1611400463712 /* NewViewController.swift */,
 				5F0D68F61FB15BB800463712 /* Main.storyboard */,
 				5F0D68FC1FB15BB800463712 /* Assets.xcassets */,
 				5F0D68FE1FB15BB800463712 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				5F0D68FB1FB15BB800463712 /* NOV_OVEN.xcdatamodeld in Sources */,
 				5F0D68F51FB15BB800463712 /* ViewController.swift in Sources */,
 				5F0D68F31FB15BB800463712 /* AppDelegate.swift in Sources */,
+				5F0D69081FB1611400463712 /* NewViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
